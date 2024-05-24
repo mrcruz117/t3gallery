@@ -2,7 +2,7 @@
 
 ## TODO
 
-- [ ] Make it deploy (vercel)
+- [x] Make it deploy (vercel)
 - [ ] Scaffold basic ui with mock data
 - [ ] Set up a database (vercel postgres)
 - [ ] Attach database to UI
@@ -13,3 +13,5 @@
 - [ ] Delete button (server actions)
 - [ ] Analytics (posthog)
 - [ ] Ratelimiting (upstash)
+
+left off at: https://youtu.be/d5x0JCZbAJs?t=1056
