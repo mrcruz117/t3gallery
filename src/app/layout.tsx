@@ -1,4 +1,5 @@
 import "~/styles/globals.css";
+import "@uploadthing/react/styles.css";
 import { ClerkProvider } from "@clerk/nextjs";
 
 import { GeistSans } from "geist/font/sans";
@@ -10,8 +11,6 @@ export const metadata = {
   icons: [{ rel: "icon", url: "/favicon.ico" }],
 };
 
-
-
 export default function RootLayout({
   children,
 }: {
@@ -21,7 +20,7 @@ export default function RootLayout({
     <ClerkProvider>
       <html lang="en" className={`${GeistSans.variable}`}>
         <body className={`font-sans ${GeistSans.variable} flex flex-col gap-4`}>
-          <TopNav  />
+          <TopNav />
           {children}
         </body>
       </html>
