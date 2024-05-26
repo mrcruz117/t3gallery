@@ -10,6 +10,7 @@
 - [x] Add authentication (Clerk)
 - [ ] Add image upload
 - [ ] "taint" (server only)
+- [ ] Use Next/Image component
 - [ ] Error management (Sentry)
 - [ ] Routing/image page (parallel routes)
 - [ ] Delete button (server actions)
@@ -17,4 +18,4 @@
 - [ ] Ratelimiting (upstash)
 
 
-left off at: https://youtu.be/d5x0JCZbAJs?t=2261
+left off at: https://youtu.be/d5x0JCZbAJs?t=3244
