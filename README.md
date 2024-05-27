@@ -8,7 +8,7 @@
 - [x] Set up a database (vercel postgres)
 - [x] Attach database to UI
 - [x] Add authentication (Clerk)
-- [ ] Add image upload
+- [x] Add image upload
 - [ ] "taint" (server only)
 - [ ] Use Next/Image component
 - [ ] Error management (Sentry)
@@ -18,4 +18,4 @@
 - [ ] Ratelimiting (upstash)
 
 
-left off at: https://youtu.be/d5x0JCZbAJs?t=3860
+left off at: https://youtu.be/d5x0JCZbAJs?t=4158
