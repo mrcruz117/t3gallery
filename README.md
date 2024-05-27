@@ -9,7 +9,7 @@
 - [x] Attach database to UI
 - [x] Add authentication (Clerk)
 - [x] Add image upload
-- [ ] "taint" (server only)
+- [x] "taint" (server only)
 - [ ] Use Next/Image component
 - [ ] Error management (Sentry)
 - [ ] Routing/image page (parallel routes)
@@ -18,4 +18,4 @@
 - [ ] Ratelimiting (upstash)
 
 
-left off at: https://youtu.be/d5x0JCZbAJs?t=4158
+left off at: https://youtu.be/d5x0JCZbAJs?t=4639
