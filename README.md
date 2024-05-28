@@ -19,7 +19,7 @@
 - [x] Delete button (server actions)
 - [x] Ratelimiting (upstash)
 
-## Furthur touches
+## Further touches
 
 - [ ] fit for different image resolutions
 - [ ] "Selecting" multiple images
