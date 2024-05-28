@@ -16,7 +16,12 @@
 - [x] Update upload button styles
 - [x] ShadUI init (toasts)
 - [x] Analytics (posthog)
-- [ ] Delete button (server actions)
-- [ ] Ratelimiting (upstash)
+- [x] Delete button (server actions)
+- [x] Ratelimiting (upstash)
 
-left off at: https://youtu.be/d5x0JCZbAJs?t=9494
+## Furthur touches
+
+- [ ] fit for different image resolutions
+- [ ] "Selecting" multiple images
+- [ ] "infinite scroll"
+- [ ] folders/albums
