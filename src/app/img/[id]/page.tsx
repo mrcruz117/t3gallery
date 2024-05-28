@@ -1,7 +1,11 @@
-export default function ImgModal({
+import FullPageImageView from "~/components/full-image-page";
+
+export default function ImgPage({
   params: { id: imgId },
 }: {
   params: { id: string };
 }) {
-  return <div>{imgId}</div>;
+  const idAsNum = Number(imgId);
+
+  return <FullPageImageView id={idAsNum} />;
 }

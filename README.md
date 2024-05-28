@@ -12,10 +12,11 @@
 - [x] "taint" (server only)
 - [x] Use Next/Image component
 - [x] Error management (Sentry)
-- [ ] Routing/image page (parallel routes)
+- [x] Routing/image page (parallel routes)
+- [x] Update upload button styles
+- [x] ShadUI init (toasts)
 - [ ] Delete button (server actions)
 - [ ] Analytics (posthog)
 - [ ] Ratelimiting (upstash)
 
-
-left off at: https://youtu.be/d5x0JCZbAJs?t=5529
+left off at: https://youtu.be/d5x0JCZbAJs?t=8727
