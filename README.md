@@ -18,4 +18,4 @@
 - [ ] Ratelimiting (upstash)
 
 
-left off at: https://youtu.be/d5x0JCZbAJs?t=5529
+left off at: https://youtu.be/d5x0JCZbAJs?t=6080
