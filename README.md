@@ -14,9 +14,9 @@
 - [x] Error management (Sentry)
 - [x] Routing/image page (parallel routes)
 - [x] Update upload button styles
-- [ ] ShadUI init (toasts)
+- [x] ShadUI init (toasts)
 - [ ] Delete button (server actions)
 - [ ] Analytics (posthog)
 - [ ] Ratelimiting (upstash)
 
-left off at: https://youtu.be/d5x0JCZbAJs?t=6080
+left off at: https://youtu.be/d5x0JCZbAJs?t=8727
